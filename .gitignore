@@ -17,20 +17,6 @@ out/
 .apt_generated/
 
 # ##########################
-# IDE 配置
-# ##########################
-# IntelliJ IDEA
-.idea/
-*.iml
-*.ipr
-*.iws
-*.iws
-.idea_modules/
-out/
-*.ipr
-*.iws
-*.iml
-# ##########################
 # 日志文件
 # ##########################
 *.log
@@ -66,25 +52,6 @@ wrapper/maven-wrapper.properties
 .gradle/
 gradle/wrapper/gradle-wrapper.jar
 gradle/wrapper/gradle-wrapper.properties
-
-# ##########################
-# 微服务特有
-# ##########################
-# 配置文件（敏感信息不提交，只提交示例文件）
-application-dev.yml
-application-prod.yml
-application-test.yml
-bootstrap.yml
-bootstrap-dev.yml
-bootstrap-prod.yml
-*.properties
-*.yml
-!application.yml.example
-!bootstrap.yml.example
-
-# Nacos/Sentinel 配置
-nacos/
-sentinel/
 
 # Docker
 Dockerfile

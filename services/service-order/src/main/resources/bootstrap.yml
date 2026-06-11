@@ -1,0 +1,50 @@
+server:
+  port: 8000
+
+spring:
+  profiles:
+    active: test   #激活哪个环境下的文件
+    include: feign
+  application:
+    name: service-order
+  cloud:
+    nacos:
+      server-addr: 127.0.0.1:8848
+      config:
+        namespace: ${spring.profiles.active:public} #用来指定当前激活的环境配置文件,冒号前面的属性不存在时，使用后面的默认值,指定的用上边active来制定启动那个
+
+        # 临时关闭强制检查（先让项目跑起来，后面再去掉）
+        import-check:
+          enabled: false
+
+logging:
+  level:
+    com.atguigu.order.feign: debug
+seata:
+  enabled: false
+---
+  # 关键：必须在spring根目录下，不能缩进错位置！
+spring:
+  config:
+    import:
+      - optional:nacos:common.properties?group=order
+      - optional:nacos:database.properties?group=order
+    active:
+      on-profile: dev
+---
+spring:
+  config:
+    import:
+      - optional:nacos:common.properties?group=order
+      - optional:nacos:database.properties?group=order
+      - optional:nacos:haha.properties?group=order
+    active:
+      on-profile: test
+---
+spring:
+  config:
+    import:
+      - optional:nacos:common.properties?group=order
+      - optional:nacos:database.properties?group=order
+    active:
+      on-profile: prod

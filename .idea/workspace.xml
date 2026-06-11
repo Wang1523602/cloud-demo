@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6bbd371b-b76d-4002-b291-f4b00569631e" name="Changes" comment="正常运行">
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Wang" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Wang1523602&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Wang1523602/cloud-demo.git&quot;,
+    &quot;accountId&quot;: &quot;0ecd2cdd-b4b5-4940-8507-ea7ecc5423c2&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3EL0OQzUXSuF2TPPWja7gWfZhh1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "JUnit.DiscoveryTest.discoveryClientTest.executor": "Run",
+    "JUnit.DiscoveryTest.executor": "Run",
+    "JUnit.DiscoveryTest.setNacosServiceDiscoveryTest.executor": "Run",
+    "JUnit.LoadBalancerTest.test.executor": "Run",
+    "JUnit.WeatherTest.test01.executor": "Run",
+    "Maven.cloud-demo [clean].executor": "Run",
+    "Maven.cloud-demo [compile].executor": "Run",
+    "Maven.seata-business [clean].executor": "Run",
+    "Maven.seata-business [compile].executor": "Run",
+    "Maven.service-order [clean].executor": "Run",
+    "Maven.service-order [install].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "Spring Boot.GatewayMainApplication.executor": "Run",
+    "Spring Boot.OrderMainApplication-2.executor": "Run",
+    "Spring Boot.OrderMainApplication.executor": "Run",
+    "Spring Boot.ProductMainApplication - 2.executor": "Run",
+    "Spring Boot.ProductMainApplication-2.executor": "Run",
+    "Spring Boot.ProductMainApplication-3.executor": "Run",
+    "Spring Boot.ProductMainApplication.executor": "Run",
+    "Spring Boot.SeataAccountMainApplication.executor": "Debug",
+    "Spring Boot.SeataBusinessMainApplication.executor": "Run",
+    "Spring Boot.SeataOrderMainApplication.executor": "Run",
+    "Spring Boot.SeataStorageMainApplication.executor": "Run",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/IdeaProject/cloud-demo/services/service-product/src/main/java/com/atguigu/product",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.39217392",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProject\cloud-demo\services\service-product\src\main\java\com\atguigu\product" />
+      <recent name="D:\IdeaProject\cloud-demo\services\service-product\src\test\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.product.bean" />
+      <recent name="com.atguigu.order.bean" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GatewayMainApplication">
+    <configuration name="WeatherTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.order" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.order.WeatherTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayMainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gtguigu.geteway.GatewayMainApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gtguigu.geteway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderMainApplication-2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-order" />
+      <option name="PROGRAM_PARAMETERS" value="--server.port=8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.order.OrderMainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderMainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.order.OrderMainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductMainApplication - 2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="service-product" />
+      <option name="PROGRAM_PARAMETERS" value="--server.port=9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.product.ProductMainApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductMainApplication-3" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="service-product" />
+      <option name="PROGRAM_PARAMETERS" value="--server.port=9002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.product.ProductMainApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductMainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="service-product" />
+      <option name="PROGRAM_PARAMETERS" value="--server.port=9000" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.product.ProductMainApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataAccountMainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="seata-account" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.account.SeataAccountMainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataBusinessMainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="seata-business" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.business.SeataBusinessMainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataOrderMainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="seata-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.order.SeataOrderMainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataStorageMainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="seata-storage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.storage.SeataStorageMainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.WeatherTest.test01" />
+      <item itemvalue="Spring Boot.SeataAccountMainApplication" />
+      <item itemvalue="Spring Boot.SeataBusinessMainApplication" />
+      <item itemvalue="Spring Boot.SeataOrderMainApplication" />
+      <item itemvalue="Spring Boot.SeataStorageMainApplication" />
+      <item itemvalue="Spring Boot.OrderMainApplication" />
+      <item itemvalue="Spring Boot.OrderMainApplication-2" />
+      <item itemvalue="Spring Boot.ProductMainApplication-3" />
+      <item itemvalue="Spring Boot.GatewayMainApplication" />
+      <item itemvalue="Spring Boot.ProductMainApplication" />
+      <item itemvalue="Spring Boot.ProductMainApplication - 2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ProductMainApplication - 2" />
+        <item itemvalue="Spring Boot.ProductMainApplication" />
+        <item itemvalue="Spring Boot.ProductMainApplication-3" />
+        <item itemvalue="Spring Boot.GatewayMainApplication" />
+        <item itemvalue="JUnit.WeatherTest.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.29188.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.29188.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="StructureViewState">
+    <option name="selectedTab" value="Logical" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bbd371b-b76d-4002-b291-f4b00569631e" name="Changes" comment="" />
+      <created>1779942510109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779942510109</updated>
+      <workItem from="1779942511394" duration="1725000" />
+      <workItem from="1779944280925" duration="6443000" />
+      <workItem from="1780212449222" duration="10099000" />
+      <workItem from="1780225293679" duration="431000" />
+      <workItem from="1780225735275" duration="8243000" />
+      <workItem from="1780297063254" duration="1623000" />
+      <workItem from="1780302610137" duration="3687000" />
+      <workItem from="1780317899614" duration="1857000" />
+      <workItem from="1780320799991" duration="4726000" />
+      <workItem from="1780363799075" duration="11682000" />
+      <workItem from="1780391449718" duration="9971000" />
+      <workItem from="1780446759215" duration="31224000" />
+      <workItem from="1780713611832" duration="9464000" />
+      <workItem from="1780735700635" duration="355000" />
+      <workItem from="1780736072824" duration="599000" />
+      <workItem from="1780737209508" duration="1479000" />
+      <workItem from="1780754317912" duration="324000" />
+      <workItem from="1780799348025" duration="18997000" />
+      <workItem from="1780884312239" duration="10277000" />
+      <workItem from="1780982881879" duration="19000" />
+      <workItem from="1781104998384" duration="102000" />
+      <workItem from="1781152782891" duration="25000" />
+      <workItem from="1781153527038" duration="548000" />
+      <workItem from="1781154082309" duration="3114000" />
+      <workItem from="1781162112465" duration="258000" />
+      <workItem from="1781162376468" duration="67000" />
+      <workItem from="1781162493511" duration="774000" />
+      <workItem from="1781163274292" duration="2068000" />
+    </task>
+    <task id="LOCAL-00001" summary="添加了一个属性">
+      <option name="closed" value="true" />
+      <created>1781157215245</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1781157215245</updated>
+    </task>
+    <task id="LOCAL-00002" summary="删除了添加的属性">
+      <option name="closed" value="true" />
+      <created>1781161912567</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1781161912567</updated>
+    </task>
+    <task id="LOCAL-00003" summary="正常运行">
+      <option name="closed" value="true" />
+      <created>1781165957199</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1781165957199</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加了一个属性" />
+    <MESSAGE value="删除了添加的属性" />
+    <MESSAGE value="正常运行" />
+    <option name="LAST_COMMIT_MESSAGE" value="正常运行" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
