@@ -1,0 +1,107 @@
+# ##########################
+# Java 通用
+# ##########################
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.ear
+target/
+build/
+out/
+*.classpath
+*.project
+*.settings/
+.factorypath
+.apt_generated/
+
+# ##########################
+# IDE 配置
+# ##########################
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+*.iws
+.idea_modules/
+out/
+*.ipr
+*.iws
+*.iml
+# ##########################
+# 日志文件
+# ##########################
+*.log
+logs/
+*.log.*
+nohup.out
+hs_err_pid*
+
+# ##########################
+# 临时文件
+# ##########################
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.bak
+*.backup
+*.orig
+*.rej
+
+# ##########################
+# 构建工具
+# ##########################
+# Maven
+.mvn/
+wrapper/maven-wrapper.jar
+wrapper/maven-wrapper.properties
+
+# Gradle
+.gradle/
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+
+# ##########################
+# 微服务特有
+# ##########################
+# 配置文件（敏感信息不提交，只提交示例文件）
+application-dev.yml
+application-prod.yml
+application-test.yml
+bootstrap.yml
+bootstrap-dev.yml
+bootstrap-prod.yml
+*.properties
+*.yml
+!application.yml.example
+!bootstrap.yml.example
+
+# Nacos/Sentinel 配置
+nacos/
+sentinel/
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# 测试报告
+test-output/
+surefire-reports/
+jacoco/
+
+# ##########################
+# 其他
+# ##########################
+# Git
+*.patch
+*.diff
+
+# 依赖
+lib/
