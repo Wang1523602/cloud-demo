@@ -17,7 +17,7 @@ public class AccountTbl implements Serializable {
 
     private Integer money;
 
-    private static final long serialVersionUID = 1L;
+
 
 
 
